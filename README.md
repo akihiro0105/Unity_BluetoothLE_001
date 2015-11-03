@@ -1,0 +1,5 @@
+# Unity_BluetoothLE_001
+20151103
+
+Socket通信を利用したBluetoothLEマイコンとの動作テスト用プロジェクトです。
+BluetoothLE_001からのSocket通信から値を受け取ります。
